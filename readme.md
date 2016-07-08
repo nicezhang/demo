@@ -35,9 +35,10 @@
 >>> 队医,球探
 
 ###序号列表:
+
 1. item
-    1.1 item1
-    1.2 item2
+  1.1 item1
+  1.2 item2
 2. item
-    2.1 item3
-    2.2 item4
+  2.1 item3
+  2.2 item4
